@@ -1,7 +1,7 @@
 # ESCRIBIR CUALQUIER COSA ACA PARA REINICIAR EL TEMPORIZADOR DEL SERVIDOR
 #xa
-#jaa
-# agg
+#j
+# aggs
 #dnd
 #hh
 #asd
